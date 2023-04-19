@@ -18,4 +18,5 @@ Numero1+Numero2
 escreva("Resultado");
 Leia("Resultado");
 Fim-se
+Coisas da vida a minha ex quer virar minha amiga
 Fim
