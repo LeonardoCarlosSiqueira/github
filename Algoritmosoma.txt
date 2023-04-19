@@ -1,0 +1,21 @@
+Algoritmo: Soma
+
+Declaração
+Numero1: Decimal
+Numero2: Decimal
+operação: Texto
+Resultado:Decimal
+
+Inicio:
+escreva("digite um numero");
+leia("Numero1");
+escreva("digite outro numero");
+leia("Numero2");
+escreva("digite a operação");
+leia(operação+);
+se for operação
+Numero1+Numero2
+escreva("Resultado");
+Leia("Resultado");
+Fim-se
+Fim
